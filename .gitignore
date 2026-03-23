@@ -1,0 +1,4 @@
+webroot/db/
+*.db
+.DS_Store
+Thumbs.db
