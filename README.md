@@ -48,7 +48,7 @@ sqli-waf-demo/
 4. Launch and wait for both status checks to pass
 5. Note the Public IPv4 address
 
-![EC2 console showing sqli-waf-demo instance in running state with public IPv4 visible](screenshots/01-ec2-instance.png)
+![EC2 console showing assignment-sandbox instance in running state with public IPv4 visible](screenshots/01-ec2-instance.png)
 
 ### Connect
 
